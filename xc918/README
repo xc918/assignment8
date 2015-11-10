@@ -1,0 +1,3 @@
+Type: python assignment8.py to run the program.
+
+Type: python -m unittest discover to run the test.
